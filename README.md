@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+
+
+
+# Counter React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+<img width="800" height="519" alt="counterApp-react" src="https://github.com/user-attachments/assets/4616b591-eda0-43d4-af9d-015f6aba8599" />
 
 ## Available Scripts
 
